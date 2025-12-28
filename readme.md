@@ -82,9 +82,10 @@ Must show: "lambda_max(J)=1.800" + Error<0.08
 ************************************************************
 
 https://github.com/pvt4me/0340_Q27_Perception_Law
-10.5281/zenodo.1807441
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18074413.svg)](https://doi.org/10.5281/zenodo.18074413)
 ## Verification Test
 
 python 0340_Q27_Perception_Law.py
 Must show: "lambda_max(J)=1.800" + Error<0.08
+
 
